@@ -1,0 +1,8 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\bin\Debug\Matrizes.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\bin\Debug\Matrizes.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\obj\Debug\Matrizes.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\obj\Debug\Matrizes.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Matrizes\obj\Debug\Matrizes.exe.config

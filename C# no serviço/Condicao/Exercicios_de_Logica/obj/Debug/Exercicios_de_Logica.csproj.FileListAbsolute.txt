@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\bin\Debug\Exercicios_de_Logica.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\bin\Debug\Exercicios_de_Logica.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\bin\Debug\Exercicios_de_Logica.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\obj\Debug\Exercicios_de_Logica.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\obj\Debug\Exercicios_de_Logica.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\obj\Debug\Exercicios_de_Logica.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios_de_Logica\obj\Debug\Exercicios_de_Logica.pdb

@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\obj\Debug\Jogar Dados.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\obj\Debug\Jogar Dados.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\bin\Debug\Jogar Dados.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\bin\Debug\Jogar Dados.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\bin\Debug\Jogar Dados.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\obj\Debug\Jogar Dados.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogar Dados\obj\Debug\Jogar Dados.pdb

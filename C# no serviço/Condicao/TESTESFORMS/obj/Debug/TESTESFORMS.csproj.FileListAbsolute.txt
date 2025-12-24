@@ -1,0 +1,10 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\bin\Debug\TESTESFORMS.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\bin\Debug\TESTESFORMS.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\bin\Debug\TESTESFORMS.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.Form1.resources
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.Properties.Resources.resources
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTESFORMS\obj\Debug\TESTESFORMS.pdb

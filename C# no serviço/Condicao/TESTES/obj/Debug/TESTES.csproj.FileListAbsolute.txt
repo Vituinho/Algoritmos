@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\bin\Debug\TESTES.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\bin\Debug\TESTES.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\bin\Debug\TESTES.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\obj\Debug\TESTES.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\obj\Debug\TESTES.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\obj\Debug\TESTES.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TESTES\obj\Debug\TESTES.pdb

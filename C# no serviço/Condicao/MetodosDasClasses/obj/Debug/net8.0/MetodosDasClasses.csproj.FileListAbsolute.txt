@@ -1,0 +1,14 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\refint\MetodosDasClasses.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\MetodosDasClasses\obj\Debug\net8.0\ref\MetodosDasClasses.dll

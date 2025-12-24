@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Encapsular\obj\Debug\Encapsular.pdb

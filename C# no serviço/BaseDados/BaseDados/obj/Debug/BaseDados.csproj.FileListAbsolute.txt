@@ -1,0 +1,13 @@
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\bin\Debug\BaseDados.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\bin\Debug\BaseDados.exe
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\bin\Debug\BaseDados.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.Form1.resources
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.Properties.Resources.resources
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.Up2Date
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.exe
+C:\Users\victor.moraes\Documents\C# no serviço\BaseDados\BaseDados\obj\Debug\BaseDados.pdb

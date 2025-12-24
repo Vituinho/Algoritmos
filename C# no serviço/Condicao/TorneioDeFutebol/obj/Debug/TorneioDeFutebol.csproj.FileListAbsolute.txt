@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\bin\Debug\TorneioDeFutebol.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\bin\Debug\TorneioDeFutebol.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\bin\Debug\TorneioDeFutebol.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\obj\Debug\TorneioDeFutebol.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\obj\Debug\TorneioDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\obj\Debug\TorneioDeFutebol.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TorneioDeFutebol\obj\Debug\TorneioDeFutebol.pdb

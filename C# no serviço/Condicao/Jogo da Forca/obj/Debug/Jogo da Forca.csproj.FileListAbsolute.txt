@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Jogo da Forca\obj\Debug\Jogo da Forca.pdb

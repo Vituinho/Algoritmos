@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\bin\Debug\Funções.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\bin\Debug\Funções.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\bin\Debug\Funções.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\obj\Debug\Funções.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\obj\Debug\Funções.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Funções\obj\Debug\Funções.pdb

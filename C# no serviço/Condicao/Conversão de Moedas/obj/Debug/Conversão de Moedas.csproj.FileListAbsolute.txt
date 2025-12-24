@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\bin\Debug\Conversão de Moedas.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\bin\Debug\Conversão de Moedas.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\bin\Debug\Conversão de Moedas.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\obj\Debug\Conversão de Moedas.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\obj\Debug\Conversão de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\obj\Debug\Conversão de Moedas.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Conversão de Moedas\obj\Debug\Conversão de Moedas.pdb

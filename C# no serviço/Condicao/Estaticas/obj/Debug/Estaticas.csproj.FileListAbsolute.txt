@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\bin\Debug\Estaticas.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\bin\Debug\Estaticas.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\obj\Debug\Estaticas.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Estaticas\obj\Debug\Estaticas.pdb

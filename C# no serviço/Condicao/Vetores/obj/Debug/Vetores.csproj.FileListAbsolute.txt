@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\bin\Debug\Vetores.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\bin\Debug\Vetores.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\obj\Debug\Vetores.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Vetores\obj\Debug\Vetores.pdb

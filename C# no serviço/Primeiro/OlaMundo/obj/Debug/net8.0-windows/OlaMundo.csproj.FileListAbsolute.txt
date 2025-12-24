@@ -1,0 +1,16 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.Form1.resources
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\refint\OlaMundo.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Primeiro\OlaMundo\obj\Debug\net8.0-windows\ref\OlaMundo.dll

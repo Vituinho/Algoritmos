@@ -1,0 +1,16 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\bin\Debug\net8.0-windows\Calculadora sem ajuda.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\bin\Debug\net8.0-windows\Calculadora sem ajuda.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\bin\Debug\net8.0-windows\Calculadora sem ajuda.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\bin\Debug\net8.0-windows\Calculadora sem ajuda.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\bin\Debug\net8.0-windows\Calculadora sem ajuda.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora_sem_ajuda.Calculadora.resources
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\refint\Calculadora sem ajuda.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\Calculadora sem ajuda.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Calculadora sem ajuda\Calculadora sem ajuda\obj\Debug\net8.0-windows\ref\Calculadora sem ajuda.dll

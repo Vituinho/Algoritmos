@@ -1,0 +1,9 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Teste\Teste\obj\Debug\Teste.pdb

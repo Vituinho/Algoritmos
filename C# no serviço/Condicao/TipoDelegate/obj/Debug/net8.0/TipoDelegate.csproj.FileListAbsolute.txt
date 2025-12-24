@@ -1,0 +1,14 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\bin\Debug\net8.0\TipoDelegate.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\bin\Debug\net8.0\TipoDelegate.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\bin\Debug\net8.0\TipoDelegate.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\bin\Debug\net8.0\TipoDelegate.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\bin\Debug\net8.0\TipoDelegate.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\refint\TipoDelegate.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\TipoDelegate.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TipoDelegate\obj\Debug\net8.0\ref\TipoDelegate.dll

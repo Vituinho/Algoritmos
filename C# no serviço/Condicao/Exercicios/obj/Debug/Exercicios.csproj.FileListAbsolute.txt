@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\obj\Debug\Exercicios.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Exercicios\obj\Debug\Exercicios.pdb

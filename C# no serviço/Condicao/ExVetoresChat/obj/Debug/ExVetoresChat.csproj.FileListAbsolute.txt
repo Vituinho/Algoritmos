@@ -1,0 +1,8 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\bin\Debug\ExVetoresChat.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\bin\Debug\ExVetoresChat.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\bin\Debug\ExVetoresChat.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\obj\Debug\ExVetoresChat.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\obj\Debug\ExVetoresChat.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\obj\Debug\ExVetoresChat.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\obj\Debug\ExVetoresChat.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ExVetoresChat\obj\Debug\ExVetoresChat.exe.config

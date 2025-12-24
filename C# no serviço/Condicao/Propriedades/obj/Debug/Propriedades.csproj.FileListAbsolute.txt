@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Propriedades\obj\Debug\Propriedades.pdb

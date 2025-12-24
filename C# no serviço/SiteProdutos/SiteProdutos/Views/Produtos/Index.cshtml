@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Produto>
+
+<h1>Produtos</h1>
+
+<a href="/Produtos/Create">Adicionar Produto</a>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Preço</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Nome</td>
+            <td>@item.Preco.ToString("C")</td>
+        </tr>
+    }
+</table>

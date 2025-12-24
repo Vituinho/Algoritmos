@@ -1,0 +1,17 @@
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\bin\Debug\net8.0-windows\teste.exe
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\bin\Debug\net8.0-windows\teste.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\bin\Debug\net8.0-windows\teste.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\bin\Debug\net8.0-windows\teste.dll
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\bin\Debug\net8.0-windows\teste.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.Form1.resources
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.csproj.GenerateResource.cache
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.dll
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\refint\teste.dll
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\ref\teste.dll
+C:\Users\victor.moraes\Documents\C# no serviço\segundo\teste\obj\Debug\net8.0-windows\teste.Properties.Resources.resources

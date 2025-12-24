@@ -1,0 +1,14 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\bin\Debug\net8.0\TermoThis.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\bin\Debug\net8.0\TermoThis.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\bin\Debug\net8.0\TermoThis.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\bin\Debug\net8.0\TermoThis.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\bin\Debug\net8.0\TermoThis.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\refint\TermoThis.dll
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\TermoThis.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\TermoThis\obj\Debug\net8.0\ref\TermoThis.dll

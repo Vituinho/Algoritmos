@@ -1,0 +1,8 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\bin\Debug\Só Criei.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\bin\Debug\Só Criei.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\bin\Debug\Só Criei.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\obj\Debug\Só Criei.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\obj\Debug\Só Criei.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\obj\Debug\Só Criei.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\obj\Debug\Só Criei.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\Só Criei\obj\Debug\Só Criei.exe.config

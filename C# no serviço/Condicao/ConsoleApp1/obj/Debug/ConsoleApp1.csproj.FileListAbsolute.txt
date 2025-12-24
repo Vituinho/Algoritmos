@@ -1,0 +1,7 @@
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\victor.moraes\Documents\C# no serviço\Condicao\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,29 @@
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Curso\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Curso\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Curso\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Curso\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Curso\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Curso\MySolution\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\victor.moraes\Documents\C# no serviço\MySolution\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
